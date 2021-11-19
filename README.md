@@ -1,0 +1,2 @@
+- This is a very simple password generator created as a C# console app in response to a challenge from an instructor at Full Sail.
+- The idea is to simply run the app whenever you need a new password between 8 & 16 characters long.
